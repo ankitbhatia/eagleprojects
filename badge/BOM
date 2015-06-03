@@ -1,0 +1,33 @@
+                                                                                                                  
+Part                        Value                       Package          Library         Digikey Part Number      Link                                                                      
+                                                                                                                  
+C1                          0.1uF                       C0603            resistor        490-1532-1-ND            http://www.digikey.com/product-detail/en/GRM188R71C104KA01D/490-1532-1-ND/
+C2                          0.1uF                       C0603            resistor        491-1532-1-ND            http://www.digikey.com/product-detail/en/GRM188R71C104KA01D/490-1532-1-ND/
+C3                          0.1uF                       C0603            resistor        492-1532-1-ND            http://www.digikey.com/product-detail/en/GRM188R71C104KA01D/490-1532-1-ND/
+C4                          10uF ESR<3ohm               C0603            resistor        445-7492-1-ND            http://www.digikey.com/product-detail/en/C1608X5R0J106K080AB/445-7492-1-ND
+C5                          0.1uF                       C0603            resistor        490-1532-1-ND            http://www.digikey.com/product-detail/en/GRM188R71C104KA01D/490-1532-1-ND/
+C6                          0.1uF                       C0603            resistor        491-1532-1-ND            http://www.digikey.com/product-detail/en/GRM188R71C104KA01D/490-1532-1-ND/
+C7                          0.1uF                       C0603            resistor        492-1532-1-ND            http://www.digikey.com/product-detail/en/GRM188R71C104KA01D/490-1532-1-ND/
+IC1                         MCP1703CB                   SOT23            linear          MCP1703T-3302E/CBCT-ND   http://www.digikey.com/product-detail/en/MCP1703T-3302E%2FCB/MCP1703T-3302
+IC2                         PIC32MX1XX/2XX              SOIC-28          mic             PIC32MX150F128B-I/SO-ND  http://www.digikey.com/product-detail/en/PIC32MX150F128B-I%2FSO/PIC32MX150
+LED1                        PWR                         CHIP-LED0603     led             160-1436-1-ND            http://www.digikey.com/product-detail/en/LTST-C190KRKT/160-1436-1-ND/38681
+LED2                        TX                          CHIP-LED0603     led             161-1436-1-ND            http://www.digikey.com/product-detail/en/LTST-C190KRKT/160-1436-1-ND/38681
+LED3                        RX                          CHIP-LED0603     led             162-1436-1-ND            http://www.digikey.com/product-detail/en/LTST-C190KRKT/160-1436-1-ND/38681
+MIC                         ICS-43432                   ICS-43432        mic             Check Link               http://store.invensense.com/PortalProductDetail.aspx?ProdId=495200&fmt=2  
+PWR                         PH-2                        PH-2             mic                                      
+R1                          10k                         R0603            resistor        P10KGCT-ND               http://www.digikey.com/product-detail/en/ERJ-3GEYJ103V/P10KGCT-ND/134717  
+R2                          1k                          R0603            resistor        P1.0KGCT-ND              http://www.digikey.com/product-detail/en/ERJ-3GEYJ102V/P1.0KGCT-ND/134874 
+R3                          2k2                         R0603            resistor        RMCF0603JT2K20CT-ND      http://www.digikey.com/product-detail/en/RMCF0603JT2K20/RMCF0603JT2K20CT-N
+R4                          2k2                         R0603            resistor        RMCF0603JT2K20CT-ND      http://www.digikey.com/product-detail/en/RMCF0603JT2K20/RMCF0603JT2K20CT-N
+R5                          2k2                         R0603            resistor        RMCF0603JT2K20CT-ND      http://www.digikey.com/product-detail/en/RMCF0603JT2K20/RMCF0603JT2K20CT-N
+R6                          2k2                         R0603            resistor        RMCF0603JT2K20CT-ND      http://www.digikey.com/product-detail/en/RMCF0603JT2K20/RMCF0603JT2K20CT-N
+SV1                                                     MA06-1           con-lstb                                 
+SV2                                                     MA04-1           con-lstb                                 
+TP1                         TPPAD1-13                   P1-13            testpad         5012K-ND                 http://www.digikey.com/product-detail/en/5012/5012K-ND/255334             
+TP2                         TPPAD1-13                   P1-13            testpad         5012K-ND                 http://www.digikey.com/product-detail/en/5012/5012K-ND/255334             
+TP4                         TPPAD1-13                   P1-13            testpad         5012K-ND                 http://www.digikey.com/product-detail/en/5012/5012K-ND/255334             
+TP5                         TPPAD1-13                   P1-13            testpad         5012K-ND                 http://www.digikey.com/product-detail/en/5012/5012K-ND/255334             
+TP6                         TPPAD1-13                   P1-13            testpad         5012K-ND                 http://www.digikey.com/product-detail/en/5012/5012K-ND/255334             
+TP7                         TPPAD1-13                   P1-13            testpad         5012K-ND                 http://www.digikey.com/product-detail/en/5012/5012K-ND/255334             
+TP8                         TPPAD1-13                   P1-13            testpad         5012K-ND                 http://www.digikey.com/product-detail/en/5012/5012K-ND/255334             
+XB1                         XBEE-PRO                    XBEE-PRO         maxstream                                
